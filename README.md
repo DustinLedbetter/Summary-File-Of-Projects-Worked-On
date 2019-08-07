@@ -17,14 +17,10 @@ General Stats:
    Communicorp Title: Application Developer Analyst 5/16/2019 - current
       Note: My actual job tasks build me as a Full Stack Developer
 
-   Number of notable Projects I've worked on currently: 17
+   Number of notable Projects that I've worked on and can share currently: 17
 
    Number of storefronts I am responsible for working on currently: 45+ live sites
    Types: A mix of Pageflex, Able Commerce, and custom sites
-
-   Time/Project tracking software used currently: Formstack, Harvest, and Fieldglass 
-
-   Source Control currently: Gitbucket and Github
  *************************************************************************************
 
 
