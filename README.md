@@ -9,7 +9,7 @@ This is a repo containing summary files for projects I have worked on
 *Purpose: Work Stats and Projects worked on at Communicorp                          *<br>
 *************************************************************************************
 
-##--------------------------------------------------------------------------------------------------------------------------------------
+*************************************************************************************
 General Stats:
 
    Randstad Title: Web Designer 7/10/2018 – 5/16/2019 
@@ -25,12 +25,11 @@ General Stats:
    Time/Project tracking software used currently: Formstack, Harvest, and Fieldglass 
 
    Source Control currently: Gitbucket and Github
-   <br>
-##-------------------------------------------------------------------------------------------------------------------------------------
+ *************************************************************************************
 
 
 
-##--------------------------------------------------------------------------------------------------------------------------------------
+*************************************************************************************
 Extra Learning while at Communicorp:
    
    FreeCodeCamp.org: (Developer certifications representing approximately 300 hours of coursework)
@@ -60,3 +59,4 @@ Extra Learning while at Communicorp:
 7.	OSHA Workplace Violence Awareness Training Course: 6/7/2019
 8.	OSHA Slips, Trips, and Falls Training Course: 6/7/2019
 9.	OSHA Office Ergonomics Training Course: 6/7/2019
+*************************************************************************************
