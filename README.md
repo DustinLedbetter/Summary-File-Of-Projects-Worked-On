@@ -33,18 +33,18 @@ General Stats:
 Extra Learning while at Communicorp:
    
    FreeCodeCamp.org: (Developer certifications representing approximately 300 hours of coursework)
-      1. Responsive Web Design Certification: 8/10/2018
-      2. JavaScript Algorithms and Data Structures Certification: 11/14/2018
+1. Responsive Web Design Certification: 8/10/2018
+2. JavaScript Algorithms and Data Structures Certification: 11/14/2018
 
    LinkedIn Learning: (Certificate of Completions for completed courses)
-      1. Programming Foundations: Fundamentals Course: 10/29/2018
-      2. Web Development Foundations: Full-Stack vs Front-End Course: 10/29/2018
-      3. Guy Kawasaki on How to Rock Social Media Course: 10/29/2018
-      4. CSS Essential Training Part 1 Course: 11/7/2018
-      5. CSS Essential Training Part 2 Course: 11/8/2018
-      6. CSS Essential Training Part 3 Course: 11/13/2018
-      7. HTML Essential Training Course: 11/13/2018
-      8. Programming Foundations: Databases: 11/13/2018
+1. Programming Foundations: Fundamentals Course: 10/29/2018
+2. Web Development Foundations: Full-Stack vs Front-End Course: 10/29/2018
+3. Guy Kawasaki on How to Rock Social Media Course: 10/29/2018
+4. CSS Essential Training Part 1 Course: 11/7/2018
+5. CSS Essential Training Part 2 Course: 11/8/2018
+6. CSS Essential Training Part 3 Course: 11/13/2018
+7. HTML Essential Training Course: 11/13/2018
+8. Programming Foundations: Databases: 11/13/2018
 
    Books:
 1.	T-SQL Fundamentals Third Edition By: Itzik Ben-Gan [Worked through the book completing all course work for each chapter] 9/23/2018
