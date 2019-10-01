@@ -55,4 +55,5 @@ Aflac Training Courses (Certificate of Completions for completed courses):
 7.	OSHA Workplace Violence Awareness Training Course: 6/7/2019
 8.	OSHA Slips, Trips, and Falls Training Course: 6/7/2019
 9.	OSHA Office Ergonomics Training Course: 6/7/2019
+10. Annual Code of Conduct: 10/1/2019
 *************************************************************************************
