@@ -4,8 +4,9 @@ This is a repo containing summary files for projects I have worked on
 *************************************************************************************
 *GOD first                                                                          *<br>
 *Name: Dustin Ledbetter                                                             *<br>
-*Last Updated:   8-7-2019                                                           *<br>
-*Job Start Date: 7-5-2018                                                           *<br>
+*Last Updated:   1-9-2019                                                           *<br>
+*Job Start Date (Randstad Temp): 7-5-2018                                           *<br>
+*Job Hired Date (Full Time Employee): 5-16-2019                                     *<br>
 *Purpose: Work Stats and Projects worked on at Communicorp                          *<br>
 *************************************************************************************
 
@@ -17,9 +18,9 @@ General Stats:
    Communicorp Title: Application Developer Analyst 5/16/2019 - current
       Note: My actual job tasks build me as a Full Stack Developer
 
-   Number of notable Projects that I've worked on and can share currently: 17
+   Number of notable Projects that I've worked on and can share currently: 23
 
-   Number of storefronts I am responsible for working on currently: 45+ live sites
+   Number of storefronts I am responsible for working on currently: 50+ live sites
    Types: A mix of Pageflex, Able Commerce, and custom sites
  *************************************************************************************
 
@@ -28,6 +29,8 @@ General Stats:
 *************************************************************************************
 Extra Learning while at Communicorp:
    
+After completing the training courses below I decided to shift my focus to developing my portfolio and personal website. I have used it to test new concepts such as CSS animations and to enhance my knowledge of other core skills in web design. It is still a work in progress, but will be completed in 2020.
+
 FreeCodeCamp.org: (Developer certifications representing approximately 300 hours of coursework)
 1. Responsive Web Design Certification: 8/10/2018
 2. JavaScript Algorithms and Data Structures Certification: 11/14/2018
