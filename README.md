@@ -4,7 +4,7 @@ This is a repo containing summary files for projects I have worked on
 *************************************************************************************
 *GOD first                                                                          *<br>
 *Name: Dustin Ledbetter                                                             *<br>
-*Last Updated:   1-9-2019                                                           *<br>
+*Last Updated:   6-11-2020                                                           *<br>
 *Job Start Date (Randstad Temp): 7-5-2018                                           *<br>
 *Job Hired Date (Full Time Employee): 5-16-2019                                     *<br>
 *Purpose: Work Stats and Projects worked on at Communicorp                          *<br>
@@ -18,10 +18,10 @@ General Stats:
    Communicorp Title: Application Developer Analyst 5/16/2019 - current
       Note: My actual job tasks build me as a Full Stack Developer
 
-   Number of notable Projects that I've worked on and can share currently: 23
+   Number of notable Projects that I've worked on and can share currently: 34
 
-   Number of storefronts I am responsible for working on currently: 50+ live sites
-   Types: A mix of Pageflex, Able Commerce, and custom sites
+   Number of storefronts I am responsible for working on currently: 50+ live sites 
+   Storefront Types: A mix of Pageflex, Able Commerce, and custom sites
  *************************************************************************************
 
 
@@ -34,6 +34,7 @@ After completing the training courses below I decided to shift my focus to devel
 FreeCodeCamp.org: (Developer certifications representing approximately 300 hours of coursework)
 1. Responsive Web Design Certification: 8/10/2018
 2. JavaScript Algorithms and Data Structures Certification: 11/14/2018
+3. Front End Libraries Developer Certification: in progress
 
 LinkedIn Learning: (Certificate of Completions for completed courses)
 1. Programming Foundations: Fundamentals Course: 10/29/2018
@@ -58,5 +59,8 @@ Aflac Training Courses (Certificate of Completions for completed courses):
 7.	OSHA Workplace Violence Awareness Training Course: 6/7/2019
 8.	OSHA Slips, Trips, and Falls Training Course: 6/7/2019
 9.	OSHA Office Ergonomics Training Course: 6/7/2019
-10. Annual Code of Conduct: 10/1/2019
+10. Annual Code of Conduct: 10/1/2019, 6/12/2020
+11. Information Security and Privacy Training: 6/12/2020
+12. Introduction to Cryptography: 6/12/2020
+13. Security: Attack and Defense:  6/12/2020
 *************************************************************************************
